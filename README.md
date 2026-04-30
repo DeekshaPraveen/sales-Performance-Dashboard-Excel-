@@ -36,7 +36,10 @@ Developed an interactive **Sales Performance Dashboard** using **Microsoft Excel
 ---
 
 ## 📊 Dashboard Preview
-<img width="1405" height="519" alt="dashboard png" src="C:\Users\deeks\Downloads\Sales-Dashboard-Using-Excel\dashboard.png" />
+
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
 
 
 ---
